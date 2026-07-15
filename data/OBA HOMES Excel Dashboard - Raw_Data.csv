@@ -1,0 +1,51 @@
+Property_ID,Estate_Name,Location,Location_Hub,Property_Type,Property_Category,Plot_Size_Sqm,Price_Per_Sqm_Naira,Price,Title,Title_Risk_Level,MARKET_SEGMENT
+OG01,Mowe Gulf,Mowe,Mowe-Ofada,Land,Land,500,40000,"20,000,000",C of O,Low,PREMIUM
+OG02,Native Pride Estate,Somenke,,Land,Land,500,7500,"3,750,000",Unspecified,High,AFFORDABLE
+OG03,Queens Park Estate,Mowe,Mowe-Ofada,Land,Land,500,11000,"5,500,000",Registered Survey ,Medium,AFFORDABLE
+OG04,Oakville Green Estate,Mowe,Mowe-Ofada,Land,Land,500,14000,"7,000,000",C of O,Low,AFFORDABLE
+OG05,Oakville Green Estate,Mowe,Mowe-Ofada,Land,Land,300,15000,"4,500,000",C of O,Low,AFFORDABLE
+OG06,Open Land,Asese ,,Land,Land,500,24000,"12,000,000","Registered Deed, Family Receipt",High,PREMIUM
+OG07,Berlin Estate,Mowe,Mowe-Ofada,Land,Land,500,13400,"6,700,000",Unspecified,High,AFFORDABLE
+OG08,Emerald Garden City,Shimawa,Shimawa ,Land,Land,500,50000,"25,000,000",C of O,Low,PREMIUM
+OG09,Open Land,Shimawa,Shimawa ,Land,Land,500,16000,"8,000,000",Survey,High,AFFORDABLE
+OG10,Iyana Iyesi,Sango Ota ,Ota,Land,Land,500,36000,"18,000,000","C of O, Registered Survey",Low,PREMIUM
+OG11,Grandview Park & Gardens Phase 1 ,Atan,Atan-Ota,Land,Land,600,9333.333333,"5,600,000",Unspecified,High,AFFORDABLE
+OG12,GrandView Park and Gardens Estate ,Atan,Atan-Ota,Land,Land,600,8333.333333,"5,000,000","C of O, Registered Survey",Low,AFFORDABLE
+OG13,Zenith Garden,Magboro,Magboro,Land,Land,500,8000,"4,000,000",Registered Survey ,Medium,AFFORDABLE
+OG14,Residential Land,Magboro,Magboro,Land,Land,500,30000,"15,000,000",C of O,Low,PREMIUM
+OG15,Residential Land,Magboro,Magboro,Land,Land,250,30000,"7,500,000",C of O,Low,PREMIUM
+OG16,Residential Land,Asese ,Igbafo,Land,Land,300,26666.66667,"8,000,000","Family Receipt, Deed of Assignment",Medium,PREMIUM
+OG17,Ofada Aprk Estate,Ofada,,Land,Land,500,11000,"5,500,000",C of O,Low,AFFORDABLE
+OG18,Residential Land,Ofada,,Land,Land,540,51851.85185,"28,000,000","C of O, Registered Survey",Low,PREMIUM
+OG19,Kingsway estate,Ala-Ijebu,,Land,Land,500,14000,"7,000,000",C of O,Low,AFFORDABLE
+OG20,Kingsway Estate,Ala-Ijebu,,Land,Land,250,14000,"3,500,000",C of O,Low,AFFORDABLE
+OG21,Quenns Homes Elizabeth Court,Mowe,Mowe-Ofada,3 Bedroom Apartment,Residential,,,"60,000,000",C of O,Low,Not Classified
+OG22,Quenns Homes Diana Court,Mowe,Mowe-Ofada,2 Bedroom Apartment,Residential,,,"47,000,000",C of O,Low,Not Classified
+OG23,6-Unit Apartment Building,Magboro,Obafemi-Owode,3 Bedroom Apartment (6 Units),Residential,,,"170,000,000","Receipt, survey, Deed of Assignment",Medium,Not Classified
+OG24,Pearl Crest Estate,Owode,Obafemi-Owode,Land,Land,460,10326.08696,"4,750,000",Registered survey,Low,AFFORDABLE
+OG25,Detached Duplex,Arepo,Berger–Arepo,5 Bedroom Apartment with 1 BQ,Residential,,,"180,000,000",Unspecified,High,Not Classified
+OG26,Unity Estate,Arepo,Berger–Arepo,3 Bedroom Apartment (5 Units),Residential,,,"250,000,000",C of O,Low,Not Classified
+OG27,Citi View Estate,Arepo,Berger–Arepo,4 Bedroom Semi Detached,Residential,,,"180,000,000",C of O,Low,Not Classified
+OG28,Queens Land Estate ,Agbara,Atan-Ota,3 Bedroom Detached Bungalow,Residential,,,"60,500,000",C of O,Low,Not Classified
+OG29,A Unit of Bungalow,Aiyetoro,Itele-Ota,3 Bedroom Bungalow,Residential,700,71428.57143,"50,000,000","Family Receipt, Deed of Assignment",Medium,PREMIUM
+OG30,Queens Land Estate ,Agbara,Atan-Ota,2 Bedroom Apartment,Residential,,,"32,500,000",C of O,Low,Not Classified
+OG31,Queens Land Estate ,Agbara,Atan-Ota,Land,Land,600,10000,"6,000,000",C of O,Low,AFFORDABLE
+OG32,Queens Land Estate ,Agbara,Atan-Ota,Land,Land,300,10000,"3,000,000",C of O,Low,AFFORDABLE
+OG33,Residential Land,Mowe,Mowe-Ofada,Land,Land,500,14000,"7,000,000",C of O,Low,AFFORDABLE
+OG34,Bluestone Estate ,Mowe,Mowe-Ofada,3 Bedroom Apartment with BQ,Residential,600,113333.3333,"68,000,000",Unspecified,High,PREMIUM
+OG35,Twin Storey Building,Arepo,Berger–Arepo,"3 Bedroom units, 2 Bedroom Apartment (4 Units)",Residential,614,228013.0293,"140,000,000","Deed of Assignments, Survey, Payment Recipts",Medium,PREMIUM
+OG36,Institutional Property,Shimawa,Shimawa ,Plaza/Commercial Complex,Commercial,1022,440313.1115,"450,000,000",Unspecified,High,PREMIUM
+OG37,Big Shopping Complex,Akute,Ifo,Plaza/Commercial Complex,Commercial,1544,246113.9896,"380,000,000","Reciept, Survey, Deed of Asssignment",Medium,PREMIUM
+OG38,"Lounge ,Bar and Apartment",Magada,Ibafo,"2 Bedroom Apartment (3 units),1 Mini Flat",Commercial,700,857142.8571,"600,000,000",C of O,Low,PREMIUM
+OG39,Agbara Estate,Agbara,Ado-Odo/Ota,Land,Land,1263,118764.8456,"150,000,000",C of O,Low,PREMIUM
+OG40,Detached Bungalows,Magodo,Magodo,4 Bedroom Apartment,Residential,,,"65,000,000",Unspecified,High,AFFORDABLE
+OG41,Agbara Estate,Agbara,Ado-Odo/Ota,Land,Land,1263,118764.8456,"150,000,000",C of O,Low,PREMIUM
+OG42,Spark Light,Magodo,Magodo,"3 Bedroom Apartment, 2 Bedroom Apartment with BQ",Residential,,,"65,000,000",C of O,Low,Not Classified
+OG43,Journalist Estate,Arepo,Berger–Arepo,4 Bedroom Duplex,Residential,,,"175,000,000",C of O,Low,Not Classified
+OG44,Journalist Estate,Arepo,Berger–Arepo,"3 Bedroom Duplex, Lounge with BQ",Residential,,,"110,000,000","Reciept, Survey, Allocation letter",Medium,Not Classified
+OG45,Forthnight Garden Estate,Arepo,Berger–Arepo,5 Bedroom Detached House (All Rooms Ensuite),Residential,,,"200,000,000",C of O,Low,Not Classified
+OG46,Forthnight Garden Estate,Arepo,Berger–Arepo,4 Bedroom  Semi-Detached,Residential,,,"190,000,000",C of O,Low,Not Classified
+OG47,T.A Gardens,Arepo,Berger–Arepo,4 Bedroom Newly Built Terraced House,Residential,,,"180,000,000",Unspecified,High,Not Classified
+OG48,T.A Gardens,Arepo,Berger–Arepo,4 Bedroom Newly Built with 2 Bedroom BQ,Residential,,,"330,000,000",Unspecified,High,Not Classified
+OG49,Journalist Estate,Arepo,Berger–Arepo,Land,Land,648,200617.284,"130,000,000","Deed of Assignment, Survey, Allocation Letter",Medium,PREMIUM
+OG50,Residential Land,Arepo,Berger–Arepo,Land,Land,521,143953.9347,"75,000,000","Reciept, Survey, Deed of Asssignment",Medium,PREMIUM
