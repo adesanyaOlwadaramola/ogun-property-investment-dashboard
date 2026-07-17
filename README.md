@@ -71,7 +71,13 @@ This project was enhanced in Microsoft Excel with:
 - Enhanced dashboard layout
 - Property Title Risk Distribution by Location
 - Interactive filtering for business analysis
+  
+## Files Included
 
+- Cleaned dataset (CSV)
+- Google Sheets Dashboard
+- Microsoft Excel Dashboard (Interactive)
+  
 ## Author
 
 **Adesanya Oluwadaramola**
