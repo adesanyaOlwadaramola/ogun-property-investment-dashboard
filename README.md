@@ -62,6 +62,16 @@ Real estate investors often struggle to identify:
 
 ![Ogun State Property Investment Dashboard](dashboard/Dashboard.png)
 
+## Microsoft Excel Version
+
+This project was enhanced in Microsoft Excel with:
+
+- Interactive slicers
+- Improved KPI card design
+- Enhanced dashboard layout
+- Property Title Risk Distribution by Location
+- Interactive filtering for business analysis
+
 ## Author
 
 **Adesanya Oluwadaramola**
